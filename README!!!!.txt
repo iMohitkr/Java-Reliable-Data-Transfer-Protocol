@@ -1,0 +1,3 @@
+If you run into an error please contact on "ranu3738@gmail.com"  or "kr.mohit2014@gmail.com" 
+
+Possible errors :  Make sure that the statement inside the constructor of each thread file in the program where we are initializing the file names with the dir path is acccording to your system i.e if it is running on linux replace "//" with "\" or if it is running on windows then replace "/" with "\\" :) 
